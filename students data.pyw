@@ -31,6 +31,8 @@ Button(fra,text='Insert:',font=('arail','20'),fg='red').grid(row=5,column=1)
 
 Button(fra,text='Update:',font=('arail','20'),fg='red').grid(row=5,column=2)
 
+Button(fra,text='Exit:',font=('arail','20'),fg='red').grid(row=7,column=2,pady=20)
+
 Button(fra,text='Select:',font=('arail','20'),fg='red').grid(row=6,column=1)
 
 Button(fra,text='Delete:',font=('arail','20'),fg='red').grid(row=6,column=2,pady=20)
