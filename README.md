@@ -1,9 +1,17 @@
-# ### Hi there.
+   We have ample of projects with MySQL and Python languages .
+ 
+Student Data 
+This project was made by Python and MySQL languages . It stores the students data.
 
-my name is Abdel-Rahman Mohammed from Egypt . 
-Being a sophisticated , diligent , great people person , and well-rounded one . I got alot of courses in many fields like business ,
-marketing ,  Data Science, and Machine Learing . I am a sudent in faculty of science ,and my field is Geophysics , trying to use Machine Leaning and Data Science in Geoscience.
-I am also interested in learning languages. you can check my profile on my linked in profile https://www.linkedin.com/in/abdel-rahman-mohammed-rabie-11a17b18b/.
+Clients Data
+This project was made by Python and MySQL languages . It stores the clients data for the small company of air internet is called cloud.
 
+
+Company Employees
+This project was made by a Python Language . It has multi screens .
+
+
+Employees Data
+Project descriptionThis project was made by a Python language . It has an ability to store the data in an external file in your PC.
 
 
