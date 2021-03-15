@@ -1,4 +1,4 @@
-   We have ample of projects with MySQL and Python languages .
+   We have several of projects with MySQL and Python languages .
  
 Student Data 
 This project was made by Python and MySQL languages . It stores the students data.
