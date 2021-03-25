@@ -84,7 +84,7 @@ def mybuton(selection):
             )
                 
         curr=conn.cursor()
-        curr.execute(""" insert into   Student_Data values (%d,"%s","%s","%s") """ % (svid.get(),svna.get(),svadd.get(),svcon.get()) )
+        curr.execute(""" insert into   Student_Data values ("%d","%s","%s","%s") """ % (svid.get(),svna.get(),svadd.get(),svcon.get()) )
         conn.commit()
         conn.close()         
                
